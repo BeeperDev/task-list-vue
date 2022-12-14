@@ -91,6 +91,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 .container {
+  background-color: #f1c6c4;
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;
